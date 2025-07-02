@@ -1,0 +1,9 @@
+.name{
+  border: 2px solid red;  
+  display: inline-block;
+  border-radius: 8px;
+  padding: 12px;
+  margin-top: 12px;
+  background-color: black;
+  color: white;
+}
